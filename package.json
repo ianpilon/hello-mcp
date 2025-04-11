@@ -1,0 +1,13 @@
+{
+  "name": "helloworldmcpserver",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.3.0"
+  },
+  "license": "ISC"
+}
